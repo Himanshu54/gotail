@@ -1,0 +1,2 @@
+# gotail
+tail go implementation
